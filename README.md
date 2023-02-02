@@ -1,5 +1,5 @@
 # Calculadora-IMC
-<h3 align="center">Calculadora feita para saber o seu IMC e dizer se você, esta abaixo do peso ou sobrepeso</h3>
+<h3 align="left">Calculadora feita para saber o seu IMC e dizer se você, esta abaixo do peso ou sobrepeso</h3>
 
 
 
